@@ -1,3 +1,4 @@
 baseURL = 'http://blanksblog.github.io/'
 languageCode = 'zh-tw'
 title = 'blank's blog'
+theme = "LoveIt"
