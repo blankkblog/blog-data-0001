@@ -1,4 +1,12 @@
-baseURL = 'http://blanksblog.github.io/'
+# 基本設置
+baseURL = "http://blanksblog.github.io/"
 languageCode = 'zh-tw'
 title = 'blank's blog'
-theme = "LoveIt"
+
+# 主題設置
+theme="LoveIt"
+
+# 連結設置
+[permalinks]
+  posts = "/:year/:month/:title/"
+baseURL = 'http://blanksblog.github.io/'
